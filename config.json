@@ -250,5 +250,10 @@
     "image_browser_pages_perload": 20,
     "image_browser_use_thumbnail": false,
     "image_browser_thumbnail_size": 200,
-    "image_browser_swipe": false
+    "image_browser_swipe": false,
+    "quicksettings_list": [
+        "sd_model_checkpoint",
+        "sd_vae",
+        "CLIP_stop_at_last_layers"
+    ]
 }
